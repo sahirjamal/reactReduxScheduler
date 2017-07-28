@@ -1,0 +1,1 @@
+export MONGODB_URI='mongodb://sahir:hello@ds141082.mlab.com:41082/sahir-horizons'
